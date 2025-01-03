@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Serialize
+  - Pole
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Interactable
+  - PlayerIgnore
+  - Source
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG3
+    uniqueID: 3647850203
+    locked: 0
+  - name: BG2
+    uniqueID: 2252276377
+    locked: 0
+  - name: BG1
+    uniqueID: 2874421961
+    locked: 0
+  - name: Geometry
+    uniqueID: 3098174039
+    locked: 0
+  - name: FG1
+    uniqueID: 3057525107
+    locked: 0
+  - name: FG2
+    uniqueID: 2545258739
+    locked: 0
+  - name: FG3
+    uniqueID: 2314925039
+    locked: 0
+  - name: UI
+    uniqueID: 3840335865
+    locked: 0
+  m_RenderingLayers:
+  - Default
